@@ -37,13 +37,20 @@ The answers were:
 
 ### Data Source
 
-The data that I am using came from the website Kaggle, which consists of publicly available data sets. The URLs for the data sets that I accessed are https://www.kaggle.com/nikdavis/steam-store-raw/version/1?select=steam_app_data.csv and https://www.kaggle.com/nikdavis/steam-store-raw/version/1?select=steam_app_data.csv. These particular data sets are publicly available for everyone to access but I altered the data sets slightly to make it easier to format. This information from steam_data was collected by downloading the Steam Store API. The second data set, steamspy_data was downloaded by SteamSpy, a service that provides information on games uploaded on Steam.
+The data that I am using came from the website Kaggle, which consists of publicly available data sets. 
+The URLs for the data sets that I accessed are https://www.kaggle.com/nikdavis/steam-store-raw/version/1?select=steam_app_data.csv and https://www.kaggle.com/nikdavis/steam-store-raw/version/1?select=steam_app_data.csv. These particular data 
+sets are publicly available for everyone to access but I altered the data sets slightly to make it easier 
+to format. This information from steam_data was collected by downloading the Steam Store API. The second data set,
+steamspy_data was downloaded by SteamSpy, a service that provides information on games uploaded on Steam.
 
 &nbsp;
 
 ### Ethics Reflection
 
-There are no ethical issues to consider related to how my data was gathered or to my analysis. There is a possibility of ethical issues resulting if someone used this data in a different way. Fairness and Justice may be violated if someone uses this data to create a program or bot to help them win a game. Using a bot that utilizes the information in these data sets creates an unfair advantage.
+There are no ethical issues to consider related to how my data was gathered or to my analysis. 
+There is a possibility of ethical issues resulting if someone used this data in a different way. 
+Fairness and Justice may be violated if someone uses this data to create a program or bot to help 
+them win a game. Using a bot that utilizes the information in these data sets creates an unfair advantage.
 
 &nbsp;
 
