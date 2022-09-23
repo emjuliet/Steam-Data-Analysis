@@ -233,6 +233,7 @@ second question, it may not be accurate in other countries. Steam has different 
 and listings for games in other countries and in other currencies. Some next steps may
 be to try to find the missing values in the data set. Furthermore, it may be interesting
 to see if the trends that I analyzed still hold up in other countries. Especially the 
-questions pertaining to games not available in English and the average price of games based on the developers.
+questions pertaining to games not available in English and the average price of games 
+based on the developers.
 
 
