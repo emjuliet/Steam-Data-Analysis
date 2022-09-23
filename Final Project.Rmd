@@ -207,10 +207,32 @@ res2 %>% ggplot() +
 
 ### Conlusion
 
-In my analysis I answered three different questions based on my data set. This data set contains information of games uploaded on Steam. My first question was asking whether games that have a required age of 0 are more expensive than those with a required age of 18. I found that games with a required age of 18 were more expensive than games that have a required age of 0. Overall, the most expensive games have an age requirement of 7 and 17. The second question I analyzed was whether there was a difference in the average price of games available in English and those that were not. I found that games in English had a higher game price average. The average price for games in English is about 7.50 dollars and the average price for games not in English is about 4.20 dollars.
+In my analysis I answered three different questions based on my data set. 
+This data set contains information of games uploaded on Steam. 
+My first question was asking whether games that have a required age of 0 
+are more expensive than those with a required age of 18. I found that games 
+with a required age of 18 were more expensive than games that have a required 
+age of 0. Overall, the most expensive games have an age requirement of 7 and 17. 
+The second question I analyzed was whether there was a difference in the average 
+price of games available in English and those that were not. I found that games in 
+English had a higher game price average. The average price for games in English is 
+about 7.50 dollars and the average price for games not in English is about 4.20 dollars.
 
-My final question was testing whether developers with more games were more likely to have more expensive games. I found that there was a small positive relationship between these two variables in my linear model. There were very large outliers in the data, which may have affected the overall relationship. I then altered my model to exclude the outliers and I found that the plot was still not very readable. Afterwards I plotted the residuals and it was very similar to the second plot of my data. In conclusion, this model was not a good one. Some next steps that I would take is to attempt to make this a quadratic model to see if it is a better fit for the data.
+My final question was testing whether developers with more games were more likely to have 
+more expensive games. I found that there was a small positive relationship between these 
+two variables in my linear model. There were very large outliers in the data, which may 
+have affected the overall relationship. I then altered my model to exclude the outliers 
+and I found that the plot was still not very readable. Afterwards I plotted the residuals 
+and it was very similar to the second plot of my data. In conclusion, this model was not a
+good one. Some next steps that I would take is to attempt to make this a quadratic model
+to see if it is a better fit for the data.
 
-Some limitations of this data is that there was some missing information throughout the entire data set for some of the games. In addition, in regards to my linear model and my second question, it may not be accurate in other countries. Steam has different prices and listings for games in other countries and in other currencies. Some next steps may be to try to find the missing values in the data set. Furthermore, it may be interesting to see if the trends that I analyzed still hold up in other countries. Especially the questions pertaining to games not available in English and the average price of games based on the developers.
+Some limitations of this data is that there was some missing information throughout the 
+entire data set for some of the games. In addition, in regards to my linear model and my
+second question, it may not be accurate in other countries. Steam has different prices 
+and listings for games in other countries and in other currencies. Some next steps may
+be to try to find the missing values in the data set. Furthermore, it may be interesting
+to see if the trends that I analyzed still hold up in other countries. Especially the 
+questions pertaining to games not available in English and the average price of games based on the developers.
 
 
